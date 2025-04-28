@@ -14,6 +14,12 @@ This project is tailored at tracking and discovering the overall sales performan
 
 ## Tools and Methodology:
 
-Power Query in Power BI: Used for carrying out the necessary ETL processes ranging from cleaning, removimg duplicates, null vaules, and making sure each field has the approprate datatype.
+Power Query in Power BI: Used for carrying out the necessary ETL processes ranging from cleaning, removimg duplicates, null vaules, and making sure each column has the approprate datatype.
 
-Power BI: Used for data modeling/creating of relationship between tables and lastly visualization.
+Power BI: Used for data modeling/creating of relationship between tables and also used for visualization.
+
+## Data Processing:
+Deployed several analytical techniques with the use of POWER BI inother to pulll out the key performance indicators (KPI) leading to futher insightful findigs.
+
+## Dashboard data findings
+
